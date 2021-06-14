@@ -1,0 +1,6 @@
+{
+  "short_name": "Employee Directory",
+  "name": "Employee Directory",
+  "start_url": ".",
+  "display": "standalone"
+}
